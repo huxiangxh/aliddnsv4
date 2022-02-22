@@ -31,11 +31,11 @@ python3 main.py config.json    // config.json为配置文件 可以更改
 # 运行示例
 请求数据成功
 找到主机记录
-域名	: www.example.com
-类型	: A
-记录值	: x.x.x.x
-TTL	: 600
-Status	: ENABLE
+域名: www.example.com
+类型: A
+记录值: x.x.x.x
+TTL: 600
+Status: ENABLE
 获取当前本机IP中...
 获取成功, 当前本机IP为: x.x.x.x
 
@@ -44,11 +44,11 @@ Status	: ENABLE
 
 请求数据成功
 找到主机记录
-域名	: www.example.com
-类型	: A
-记录值	: x.x.x.x
-TTL	: 600
-Status	: ENABLE
+域名: www.example.com
+类型: A
+记录值: x.x.x.x
+TTL: 600
+Status: ENABLE
 获取当前本机IP中...
 获取成功, 当前本机IP为: x.x.x.x
 
